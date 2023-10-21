@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Magic7Ball
-- 👀 I’m interested in making a magic eight ball that is never happy
-- 🌱 I’m currently learning I'm working on it
-- 💞️ I’m looking to collaborate on IDK
+- 👀 I’m interested in no projects at this time
+- 🌱 I’m currently learning the IBM Data Science course
+- 💞️ I’m not looking to collaborate at this time
 - 📫 How to reach me: ping me on GitHub
 
 <!---
